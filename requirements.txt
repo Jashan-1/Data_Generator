@@ -1,0 +1,6 @@
+Libraries Required for execution of code:
+
+pandas==2.1.1
+numpy==1.26.0
+rich==13.5.2
+be-great==0.1.1
